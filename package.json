@@ -1,0 +1,22 @@
+{
+  "name": "shopping-cart",
+  "version": "1.0.0",
+  "description": "hello shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soronto3603/Shopping-Cart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soronto3603/Shopping-Cart/issues"
+  },
+  "homepage": "https://github.com/soronto3603/Shopping-Cart#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
